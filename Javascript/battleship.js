@@ -51,8 +51,6 @@ var model = {
  }
  return true;
  },
-
- //Добавление методов в объект модели
  
  generateShipLocations: function() {
  var locations;
