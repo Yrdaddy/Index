@@ -98,7 +98,6 @@ collision: function(locations) {
  return false;
 },
 
-//Добавление методов в объект модели
 };
 
 var controller = {
